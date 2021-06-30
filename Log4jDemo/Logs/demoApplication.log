@@ -1,0 +1,10 @@
+2021-06-29 09:54:40 INFO  LoggerClass:23 - Seting Up the chrome browser to test
+2021-06-29 09:56:32 INFO  LoggerClass:23 - Seting Up the chrome browser to test
+2021-06-29 09:57:29 INFO  LoggerClass:23 - Seting Up the chrome browser to test
+2021-06-29 09:57:32 INFO  LoggerClass:23 - Loded the log4j.xml file
+2021-06-29 09:57:32 INFO  LoggerClass:23 - Launched the calcultor app
+2021-06-29 09:57:38 INFO  LoggerClass:23 - Finding the Logo and checking if displayed
+2021-06-29 09:57:38 INFO  LoggerClass:13 - STARTED=============HomepageLogoTest==========STARTED
+2021-06-29 09:57:38 INFO  LoggerClass:23 - Asserting the image
+2021-06-29 09:57:38 INFO  LoggerClass:23 - Logo Found
+2021-06-29 09:57:38 INFO  LoggerClass:18 - ENDED=============HomepageLogoTest==========ENDED
