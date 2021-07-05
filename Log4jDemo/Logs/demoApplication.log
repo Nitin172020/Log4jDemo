@@ -8,3 +8,11 @@
 2021-06-29 09:57:38 INFO  LoggerClass:23 - Asserting the image
 2021-06-29 09:57:38 INFO  LoggerClass:23 - Logo Found
 2021-06-29 09:57:38 INFO  LoggerClass:18 - ENDED=============HomepageLogoTest==========ENDED
+2021-07-05 11:09:29 INFO  LoggerClass:23 - Seting Up the chrome browser to test
+2021-07-05 11:09:31 INFO  LoggerClass:23 - Loded the log4j.xml file
+2021-07-05 11:09:31 INFO  LoggerClass:23 - Launched the calcultor app
+2021-07-05 11:09:34 INFO  LoggerClass:23 - Finding the Logo and checking if displayed
+2021-07-05 11:09:34 INFO  LoggerClass:13 - STARTED=============HomepageLogoTest==========STARTED
+2021-07-05 11:09:34 INFO  LoggerClass:23 - Asserting the image
+2021-07-05 11:09:34 INFO  LoggerClass:23 - Logo Found on the page
+2021-07-05 11:09:34 INFO  LoggerClass:18 - ENDED=============HomepageLogoTest==========ENDED
